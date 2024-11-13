@@ -1,0 +1,1 @@
+""D:\MC\JAVA22\bin\java.exe"" -Xmx4096M -Xms4096M -jar paper-1.21.1-122.jar nogui
